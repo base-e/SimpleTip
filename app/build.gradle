@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'bes.ebaseengine.simpletip'
+    namespace 'com.base.simpletip'
     compileSdk 34
 
     defaultConfig {
-        applicationId "bes.ebaseengine.simpletip"
+        applicationId "com.base.simpletip"
         minSdk 21
         targetSdk 34
         versionCode 1

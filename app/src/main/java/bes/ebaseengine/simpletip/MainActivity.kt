@@ -1,11 +1,11 @@
-package bes.ebaseengine.simpletip
+package com.base.simpletip
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import java.text.NumberFormat
 import android.view.inputmethod.InputMethodManager
-import bes.ebaseengine.simpletip.databinding.ActivityMainBinding
+import com.base.simpletip.databinding.ActivityMainBinding
 
 
 

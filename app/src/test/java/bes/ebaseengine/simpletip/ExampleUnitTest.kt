@@ -1,4 +1,4 @@
-package bes.ebaseengine.simpletip
+package com.base.simpletip
 
 import org.junit.Test
 

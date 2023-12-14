@@ -13,7 +13,7 @@
         android:theme="@style/Theme.SimpleTip"
         tools:targetApi="32">
         <activity
-            android:name="bes.ebaseengine.simpletip.MainActivity"
+            android:name="com.base.simpletip.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
